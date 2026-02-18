@@ -2,7 +2,7 @@
 
 - **[Hockey stats webscraper](https://github.com/robineisepoptahti/Hockey-stats-webscraper)**: python backend, visualized on static typescript webpage. 
    **[Deployed on Render](https://hockey-stats-webscraper-frontend.onrender.com)**.
-- Helsinki open university Full stack open projects.
+- Helsinki open university Full Stack Open projects.
 
 <!--
 **robineisepoptahti/robineisepoptahti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
